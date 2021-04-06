@@ -5,3 +5,5 @@ We decided to based our project on Openpose API due to it exceptional accuracy. 
 # Contents
 You can find an Intuitive explaination of Openpose API and Pose Matching Algorithm from [the Notebook](https://github.com/Kasidit0052/MatchingOpenpose/blob/main/OpenPose.ipynb)
 # Results
+![Alt Text](https://github.com/Kasidit0052/MatchingOpenpose/blob/main/results/result_1.gif)
+![Alt Text](https://github.com/Kasidit0052/MatchingOpenpose/blob/main/results/result_2.gif)
