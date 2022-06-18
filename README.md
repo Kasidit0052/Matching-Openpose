@@ -1,4 +1,4 @@
-# MatchingOpenpose
+# Matching-Openpose
 This is an Implementation of pose matching algorithm using output from Openpose
 # Pose Estimation Framework
 We decided to based our project on Openpose API due to it exceptional accuracy. For more information about Openpose, please refer to [Openpose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
